@@ -1,0 +1,27 @@
+# Arduino specific
+*.hex
+*.elf
+*.bin
+*.eep
+*.lss
+*.sym
+*.map
+*.lst
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+debug/ 
